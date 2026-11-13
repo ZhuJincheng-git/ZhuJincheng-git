@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 > Backend developer focused on Gin and AI.  
 > I’m currently trying to get involved in open-source projects.
 
-- 🔭 Currently working on: Stride-AI
+- 🔭 Currently working on: Stride AI
 - 📫 Reach me at: 2024142051@mails.szu.edu.com
 
 ---
